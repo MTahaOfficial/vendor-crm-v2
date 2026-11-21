@@ -1,0 +1,23 @@
+{
+ "customers": "2024",
+ "messages": "10072",
+ "analysed": 2024,
+ "analyzeSeconds": 6.41,
+ "perConversationMs": 3.17,
+ "dashboard": {
+  "median": 38.3,
+  "p95": 46.7
+ },
+ "customersList": {
+  "median": 20.3,
+  "p95": 26.5
+ },
+ "customersFiltered": {
+  "median": 4.8,
+  "p95": 7.6
+ },
+ "customerDetail": {
+  "median": 6,
+  "p95": 10.6
+ }
+}
